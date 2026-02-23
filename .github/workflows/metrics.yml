@@ -1,0 +1,33 @@
+name: Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AhhRonPull
+          filename: github-metrics.svg
+          template: classic
+          base: activity, community, repositories
+
+          # Activity (Recent activity) - safer settings
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_limit: 5
+          plugin_activity_filter: issue, pr, release, fork, star
+          plugin_activity_visibility: public
+          
+          # Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
