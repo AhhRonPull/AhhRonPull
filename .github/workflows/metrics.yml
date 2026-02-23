@@ -21,13 +21,9 @@ jobs:
           template: classic
           base: activity, community, repositories
 
-          # Activity (Recent activity) - safer settings
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_limit: 5
-          plugin_activity_filter: issue, pr, release, fork, star
-          plugin_activity_visibility: public
-          
-          # Calendar
+          # ✅ Disable Recent Activity (fixes "Unexpected error")
+          plugin_activity: no
+
+          # ✅ Keep the good stuff
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
