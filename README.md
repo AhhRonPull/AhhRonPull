@@ -155,12 +155,12 @@ My goal is to help design systems where **technology, data, and business strateg
 
 <table border="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AhhRonPull&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhhRonPull&layout=compact&theme=radical"/>
-    </td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhhRonPull&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhhRonPull&amp;layout=compact&amp;theme=radical" />
+</td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=AhhRonPull&theme=radical"/>
     </td>
