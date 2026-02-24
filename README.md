@@ -1,4 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=AhhRonPull&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=AhhRonPull&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/AhhRonPull?label=Followers&style=flat-square&color=blueviolet)](https://github.com/AhhRonPull?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/AhhRonPull?label=Stars&style=flat-square&color=yellow)](https://github.com/AhhRonPull)
 
 # ✒️ Author | 作者
 
@@ -9,10 +11,13 @@
     </td>
     <td>
       <h3><strong>Name:</strong> Aaron Paul M. Villanueva</h3>
-      <h3><strong>Location:</strong> Santa Barbara, Iloilo, Philippines</h3>
-      <h3><strong>Hobbies:</strong> Sleeping, Eating, Debugging 😄</h3>
-      <h3><strong>Values:</strong> Still figuring life out — but always improving</h3>
-      <h3><strong>Source of Happiness:</strong> Siya</h3>
+      <h3><strong>Nickname:</strong> Ahh Ron</h3>
+      <h3><strong>Location:</strong> 📍 Santa Barbara, Iloilo, Philippines</h3>
+      <h3><strong>Education:</strong> 🎓 BS Information Systems — West Visayas State University</h3>
+      <h3><strong>Hobbies:</strong> Sleeping 😴, Eating 🍜, Debugging �</h3>
+      <h3><strong>Values:</strong> Still figuring life out — but always improving 💪</h3>
+      <h3><strong>Source of Happiness:</strong> Siya ❤️</h3>
+      <h3><strong>Email:</strong> 📧 aaronvillanueva304@gmail.com</h3>
     </td>
   </tr>
 </table>
@@ -21,11 +26,11 @@
 
 ## 🗣️ Introduction | 为什么
 
-Hello! I’m **Aaron Paul Manalo Villanueva**, a **Bachelor of Science in Information Systems** student at **West Visayas State University**.
+Hello! I'm **Aaron Paul Manalo Villanueva**, a **Bachelor of Science in Information Systems** student at **West Visayas State University**.
 
-I’m deeply interested in **FinTech, cloud systems, data analytics, and scalable system design**. I enjoy building systems that don’t just *work*, but actually **solve real-world problems**, especially in finance, operations, and decision-making.
+I'm deeply interested in **FinTech, cloud systems, data analytics, and scalable system design**. I enjoy building systems that don't just *work*, but actually **solve real-world problems**, especially in finance, operations, and decision-making.
 
-I’m still learning — and I’m proud of that. I believe growth comes from hands-on experience, mistakes, and continuous curiosity.
+I'm still learning — and I'm proud of that. I believe growth comes from hands-on experience, mistakes, and continuous curiosity.
 
 ---
 
@@ -36,36 +41,41 @@ I’m still learning — and I’m proud of that. I believe growth comes from ha
 - ☁️ **Cloud-ready systems and REST APIs**
 - 💳 **FinTech systems (payments, data flow, security fundamentals)**
 
-I’m fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps me understand both the **technical execution** and the **architectural thinking** behind systems.
+I'm fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps me understand both the **technical execution** and the **architectural thinking** behind systems.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming & Frameworks
-- **Python** (data analytics, automation, data processing)
-- **JavaScript**
-- **Node.js**
-- **PHP**
-- **React Native**
-- **Next.js**
+### 💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🎨 Frontend
-- **Bootstrap**
-- **Tailwind CSS**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases & Backend
-- **MySQL / MariaDB**
-- **PostgreSQL**
-- **mysqli / PDO**
-- **Supabase**
-- **Firebase**
-- **REST APIs**
 
-### 📊 Data & Analytics
-- Data cleaning & transformation  
-- Basic analytics & reporting  
-- Data pipelines (API → Database → Application)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 > ⚠️ *Still learning, still building, still improving — every single day.*
 
@@ -97,47 +107,47 @@ I’m fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance help
 > *This roadmap reflects my long-term goal of growing into a FinTech-focused, data-driven system architect.*
 
 ### 🟢 Stage 1 — Foundation (Current)
-**Role:**  
+**Role:**
 - Business Analytics / Web Developer **Intern**
 
-**Focus:**  
-- Data analysis and reporting  
-- Backend & web development  
-- Database design and queries  
-- Understanding business processes  
-- Writing clean, maintainable code  
+**Focus:**
+- Data analysis and reporting
+- Backend & web development
+- Database design and queries
+- Understanding business processes
+- Writing clean, maintainable code
 
 ---
 
 ### 🟡 Stage 2 — System & Data Specialist (Next 2–4 Years)
-**Target Roles:**  
-- Systems Analyst  
-- Junior Backend / FinTech Developer  
-- Technical Business Analyst  
-- Data-focused Engineer  
+**Target Roles:**
+- Systems Analyst
+- Junior Backend / FinTech Developer
+- Technical Business Analyst
+- Data-focused Engineer
 
-**Focus:**  
-- Translating business needs into system designs  
-- Designing workflows and data flows  
-- Working with APIs, databases, and security teams  
-- Improving system efficiency and data quality  
+**Focus:**
+- Translating business needs into system designs
+- Designing workflows and data flows
+- Working with APIs, databases, and security teams
+- Improving system efficiency and data quality
 
 ---
 
 ### 🔵 Stage 3 — Architecture & Leadership (Long-Term Goal)
-**Target Role:**  
+**Target Role:**
 ### ⭐ **Solutions Architect (FinTech / Data-Driven Systems)**
 
-**Focus:**  
-- End-to-end system architecture  
-- Security-aware and scalable system design  
-- Data pipelines and analytics strategy  
-- Process optimization  
-- Team collaboration and technical leadership  
+**Focus:**
+- End-to-end system architecture
+- Security-aware and scalable system design
+- Data pipelines and analytics strategy
+- Process optimization
+- Team collaboration and technical leadership
 
 ---
 
-## 🧠 What I’m Aiming For
+## 🧠 What I'm Aiming For
 
 I want to grow into roles that combine:
 
@@ -153,33 +163,31 @@ My goal is to help design systems where **technology, data, and business strateg
 
 ## 📊 GitHub Stats
 
-<table border="0">
-  <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=AhhRonPull&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhhRonPull&amp;layout=compact&amp;theme=radical" />
-</td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=AhhRonPull&theme=radical"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhhRonPull&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" height="170" alt="Aaron's GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhhRonPull&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" height="170" alt="Aaron's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhhRonPull&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aaron's Streak Stats"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhhRonPull&theme=redical&hide_border=true&area=true" alt="Aaron's Contribution Graph"/>
+</p>
 
 ---
 
 ## 📈 Contribution Insights
 
-> Automatically generated via GitHub Actions (activity, most productive days, heatmap).
+> Automatically generated via GitHub Actions (activity, isometric calendar, heatmap).
 
 ![Metrics](https://raw.githubusercontent.com/AhhRonPull/AhhRonPull/main/github-metrics.svg)
-
----
-
-## 📫 Contact
-
-📧 **Email:** aaronvillanueva304@gmail.com
 
 ---
 
@@ -192,4 +200,4 @@ My goal is to help design systems where **technology, data, and business strateg
 ---
 
 Thanks for visiting my profile.  
-If you’re here to collaborate, learn, or build something meaningful — I’m in. 🚀
+If you're here to collaborate, learn, or build something meaningful — I'm in. 🚀
