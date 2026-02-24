@@ -164,19 +164,13 @@ My goal is to help design systems where **technology, data, and business strateg
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img alt="Repos" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AhhRonPull&query=public_repos&label=Public%20Repos&style=for-the-badge&color=blueviolet"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/AhhRonPull?label=Followers&style=for-the-badge&color=ff69b4"/>
+  <img alt="Stars" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AhhRonPull&query=public_gists&label=Gists&style=for-the-badge&color=yellow"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=AhhRonPull&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aaron's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhhRonPull&theme=redical&hide_border=true&area=true" alt="Aaron's Contribution Graph"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhhRonPull&theme=redical&hide_border=true&area=true" alt="Aaron's Contribution Graph"/>
 </p>
 
 ---
