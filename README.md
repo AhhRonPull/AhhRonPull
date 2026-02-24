@@ -164,13 +164,21 @@ My goal is to help design systems where **technology, data, and business strateg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhhRonPull&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" height="170" alt="Aaron's GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhhRonPull&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" height="170" alt="Aaron's Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AhhRonPull&theme=radical&no-frame=true&row=1&column=6" alt="Aaron's GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhhRonPull&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aaron's Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=AhhRonPull&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aaron's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhhRonPull&theme=radical" alt="Aaron's Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhhRonPull&theme=radical" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhhRonPull&theme=radical" alt="Most Commit Language"/>
 </p>
 
 ---
