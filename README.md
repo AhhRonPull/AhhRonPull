@@ -12,11 +12,8 @@
     <td>
       <h3><strong>Name:</strong> Aaron Paul M. Villanueva</h3>
       <h3><strong>Nickname:</strong> Ahh Ron</h3>
-      <h3><strong>Location:</strong> 📍 Santa Barbara, Iloilo, Philippines</h3>
-      <h3><strong>Education:</strong> 🎓 BS Information Systems — West Visayas State University</h3>
-      <h3><strong>Hobbies:</strong> Sleeping 😴, Eating 🍜, Debugging �</h3>
-      <h3><strong>Values:</strong> Still figuring life out — but always improving 💪</h3>
-      <h3><strong>Source of Happiness:</strong> Siya ❤️</h3>
+      <h3><strong>Location:</strong> Santa Barbara, Iloilo, Philippines</h3>
+      <h3><strong>Education:</strong> BS Information Systems — West Visayas State University</h3>
       <h3><strong>Email:</strong> 📧 aaronvillanueva304@gmail.com</h3>
     </td>
   </tr>
