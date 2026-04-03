@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/AhhRonPull?label=Followers&style=flat-square&color=blueviolet)](https://github.com/AhhRonPull?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/AhhRonPull?label=Stars&style=flat-square&color=yellow)](https://github.com/AhhRonPull)
 
-# ✒️ Author | 作者
+# Author | 作者
 
 <table border="0">
   <tr>
@@ -14,14 +14,14 @@
       <h3><strong>Nickname:</strong> Ahh Ron</h3>
       <h3><strong>Location:</strong> Santa Barbara, Iloilo, Philippines</h3>
       <h3><strong>Education:</strong> BS Information Systems — West Visayas State University</h3>
-      <h3><strong>Email:</strong> 📧 aaronvillanueva304@gmail.com</h3>
+      <h3><strong>Email:</strong> aaronvillanueva304@gmail.com</h3>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🗣️ Introduction | 为什么
+## Introduction | 为什么
 
 Hello! I'm **Aaron Paul Manalo Villanueva**, a **Bachelor of Science in Information Systems** student at **West Visayas State University**.
 
@@ -31,20 +31,20 @@ I'm still learning — and I'm proud of that. I believe growth comes from hands-
 
 ---
 
-## 🎯 Current Focus | 我目前的重点
+## Current Focus | 我目前的重点
 
-- 🌐 **Full-Stack & Backend Development**
-- 📊 **Python for Data Analytics & Data Processing**
-- ☁️ **Cloud-ready systems and REST APIs**
-- 💳 **FinTech systems (payments, data flow, security fundamentals)**
+- **Full-Stack & Backend Development**
+- **Python for Data Analytics & Data Processing**
+- **Cloud-ready systems and REST APIs**
+- **FinTech systems (payments, data flow, security fundamentals)**
 
 I'm fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps me understand both the **technical execution** and the **architectural thinking** behind systems.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,57 +53,57 @@ I'm fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Backend
+### Databases & Backend
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-> ⚠️ *Still learning, still building, still improving — every single day.*
+> *Still learning, still building, still improving — every single day.*
 
 ---
 
-## 🏆 Projects & Experience
+## Projects & Experience
 
-- 🚑 **Red Cross Volunteer & System Developer**
+- **Red Cross Volunteer & System Developer**
   - Worked on inventory and operational data systems
   - Focused on real-world efficiency and process improvement
 
-- 📱 **Mobile & Web Applications**
+- **Mobile & Web Applications**
   - Built cross-platform applications for local businesses
   - Emphasis on usability, scalability, and business value
 
-- ☁️ **Cloud & Backend Systems**
+- **Cloud & Backend Systems**
   - API-driven architectures
   - Authentication, database security, and performance considerations
 
-- 🔧 **Other Skills**
+- **Other Skills**
   - Accounting fundamentals
   - System troubleshooting
-  - Appliance repair when code takes a break 😄
+  - Appliance repair when code takes a break
 
 ---
 
-## 🚀 Career Roadmap | 时间线
+## Career Roadmap | 时间线
 
 > *This roadmap reflects my long-term goal of growing into a FinTech-focused, data-driven system architect.*
 
-### 🟢 Stage 1 — Foundation (Current)
+### Stage 1 — Foundation (Current)
 **Role:**
 - Business Analytics / Web Developer **Intern**
 
@@ -116,7 +116,7 @@ I'm fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps 
 
 ---
 
-### 🟡 Stage 2 — System & Data Specialist (Next 2–4 Years)
+### Stage 2 — System & Data Specialist
 **Target Roles:**
 - Systems Analyst
 - Junior Backend / FinTech Developer
@@ -131,9 +131,9 @@ I'm fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps 
 
 ---
 
-### 🔵 Stage 3 — Architecture & Leadership (Long-Term Goal)
+### Stage 3 — Architecture & Leadership (Long-Term Goal)
 **Target Role:**
-### ⭐ **Solutions Architect (FinTech / Data-Driven Systems)**
+### **Solutions Architect (FinTech / Data-Driven Systems)**
 
 **Focus:**
 - End-to-end system architecture
@@ -144,7 +144,7 @@ I'm fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps 
 
 ---
 
-## 🧠 What I'm Aiming For
+## What I'm Aiming For
 
 I want to grow into roles that combine:
 
@@ -158,7 +158,7 @@ My goal is to help design systems where **technology, data, and business strateg
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img alt="Repos" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AhhRonPull&query=public_repos&label=Public%20Repos&style=for-the-badge&color=blueviolet"/>
@@ -172,7 +172,7 @@ My goal is to help design systems where **technology, data, and business strateg
 
 ---
 
-## 📈 Contribution Insights
+## Contribution Insights
 
 > Automatically generated via GitHub Actions (activity, isometric calendar, heatmap).
 
@@ -180,7 +180,7 @@ My goal is to help design systems where **technology, data, and business strateg
 
 ---
 
-## 💬 Quote
+## Quote
 
 > *"Success is not the key to happiness.  
 > Happiness is the key to success."*  
@@ -189,4 +189,4 @@ My goal is to help design systems where **technology, data, and business strateg
 ---
 
 Thanks for visiting my profile.  
-If you're here to collaborate, learn, or build something meaningful — I'm in. 🚀
+If you're here to collaborate, learn, or build something meaningful — I'm in.
