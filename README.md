@@ -38,8 +38,6 @@ I'm still learning — and I'm proud of that. I believe growth comes from hands-
 - **Cloud-ready systems and REST APIs**
 - **FinTech systems (payments, data flow, security fundamentals)**
 
-I'm fortunate to be mentored by **Sir Nikie Jo Deocampo**, whose guidance helps me understand both the **technical execution** and the **architectural thinking** behind systems.
-
 ---
 
 ## Tech Stack & Tools
